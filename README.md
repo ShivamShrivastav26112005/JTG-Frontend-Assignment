@@ -6,11 +6,11 @@ This repository contains the solution to a frontend development assignment for J
 
 ## 🔗 Live Demo
 
-Check out the live version of the assignment:  
+Check out the live version of the assignment: https://jtg-frontend-assignment.vercel.app/
 
 ## 📁 Repository
 
-GitHub Repo:  
+GitHub Repo: https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment.git
 
 
 ## 🚀 Features
@@ -42,7 +42,8 @@ GitHub Repo:
 
 1. Clone the repository:
    ```bash
-   
+         git clone https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment.git
+
    ```
 2. Navigate to the project directory:
    ```bash
