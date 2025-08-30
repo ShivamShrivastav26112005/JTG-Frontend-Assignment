@@ -61,8 +61,10 @@ GitHub Repo: https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment
 ## 📧 Contact
 
 For any queries or suggestions, feel free to reach out via GitHub, Email Or Linkedin
-GitHub -: https://github.com/ShivamShrivastav26112005
-Email -: shivamshrivastav26112005@gmail.com
-Linkedin -: https://www.linkedin.com/in/shivam-shrivastav2611/
+
+GitHub:   https://github.com/ShivamShrivastav26112005  
+Email:    shivamshrivastav26112005@gmail.com  
+LinkedIn: https://www.linkedin.com/in/shivam-shrivastav2611/  
+LeetCode: https://leetcode.com/u/ShivamShrivastav/  
 
 Thank you for reviewing the assignment!
