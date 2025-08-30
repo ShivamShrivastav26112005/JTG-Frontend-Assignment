@@ -1,24 +1,24 @@
 
-# JTG Assignment - Frontend Development
+## JTG Frontend Assignment
 
 This repository contains the solution to a frontend development assignment for JTG. The project is built using HTML, CSS, and JavaScript, showcasing responsive UI components, form validation, and interactive elements.
 
 
-## 🔗 Live Demo
+## 🔗 Live Demo  
+[View Live Project](https://jtg-frontend-assignment.vercel.app/)
 
-Check out the live version of the assignment: https://jtg-frontend-assignment.vercel.app/
 
-## 📁 Repository
-
-GitHub Repo: https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment.git
+## 📁 Repository  
+[GitHub Repository](https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment.git)
 
 
 ## 🚀 Features
 
-- **Responsive Design**: Works well on desktops, tablets, and mobile devices.
-- **Form Handling**: Includes a form with client-side validation.
-- **Interactive UI**: Includes dynamic interactions using JavaScript.
-- **Clean Layout**: Designed with simplicity and clarity in mind.
+- **Responsive Design:** Works well on desktops, tablets, and mobile devices.  
+- **Form Handling:** Includes a form with client-side validation.  
+- **Interactive UI:** Dynamic interactions using JavaScript.  
+- **Clean Layout:** Simple and clear design.  
+
 
 
 ## 🛠️ Technologies Used
@@ -54,13 +54,13 @@ GitHub Repo: https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment
 
 ## 📌 Notes
 
-- This project is a static frontend assignment.
-- No backend or framework (like React or Angular) is used.
+- This is a static frontend assignment.  
+- No backend or frontend framework (React, Angular, etc.) is used.  
 
 
 ## 📧 Contact
 
-For any queries or suggestions, feel free to reach out via GitHub, Email Or Linkedin
+For any queries or suggestions, feel free to reach out through:  
 
 GitHub:   https://github.com/ShivamShrivastav26112005  
 Email:    shivamshrivastav26112005@gmail.com  
