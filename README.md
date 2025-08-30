@@ -42,7 +42,7 @@ This repository contains the solution to a frontend development assignment for J
 
 1. Clone the repository:
    ```bash
-         git clone https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment.git
+   git clone https://github.com/ShivamShrivastav26112005/JTG-Frontend-Assignment.git
 
    ```
 2. Navigate to the project directory:
